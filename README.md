@@ -19,6 +19,6 @@
 |  10 | 08-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10](https://drive.google.com/file/d/1A7Wh1qyP1gPXp5fwMpq8FehEaaCwtjpk/view?usp=drive_link) | [Program](https://github.com/Satria6Salam/Aplikasi-Mobile/tree/main/modul_10) |
 |  11 | 15-10-2025  | 07  | Manajemen State dengan GetX  | [Modul 11](https://drive.google.com/file/d/1fq-wE_aIciDx6pHv10CRodlZeF8CmgIK/view") | [Program](https://github.com/Satria6Salam/Aplikasi-Mobile/tree/main/modul_11) |
 |  11 | 25-10-2025  | 08  | Ujian Tengah Seemester  | [Modul UTS](https://drive.google.com/file/d/1QcjY9hQcnaiWsr9G6grjSQ0Lihjohbiw/view) | [Program](https://github.com/Satria6Salam/Aplikasi-Mobile/tree/main/smart_receipt) |
-|  12 | 05-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12]() | [Program]() |
-|  13 | 19-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13]() | [Program]() |
-|  14 | 11-12-2025  | 11  | Ujian Akhir Semester  | [Modul 13]() | [Program]() |
+|  12 | 05-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12](https://drive.google.com/file/d/18cUt4MQRIhlqKp7veWVgarv9wVnDIlUW/view) | [Program](https://github.com/Satria6Salam/Aplikasi-Mobile/tree/main/lokasi_flutter) |
+|  13 | 19-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13](https://drive.google.com/file/d/1_zpK1xXbnMxZZMD86aHx0k0PDZTNKkHm/view) | [Program](https://github.com/Satria6Salam/Aplikasi-Mobile/tree/main/modul_13) |
+|  14 | 11-12-2025  | 11  | Ujian Akhir Semester  | [Modul UAS]() | [Program]() |
